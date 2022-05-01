@@ -22,7 +22,11 @@ Die vorliegende Analyse stammt aus Juli 2018 und vergleicht die Sprache der Onli
   - [Kommentar](#kommentar)
 - [Charakteristika der Darstellungsformen](#charakteristika-der-darstellungsformen)
   - [Spiegel Online](#spiegel-online)
+    - [Form und Ästhetik](#form-und-ästhetik)
+    - [Sprache und Text](#sprache-und-text)
   - [bento](#bento)
+    - [Form und Ästhetik](#form-und-ästhetik-1)
+    - [Sprache und Text](#sprache-und-text-1)
 - [Vergleich und Conclusio](#vergleich-und-conclusio)
 {{< /detail-tag >}}
 
@@ -109,7 +113,6 @@ Der Auftritt des SPIEGEL gehört zu den Pionierleistungen deutscher Verlagsangeb
 [^19]: Vgl. Jule Lutteroth/Frank Patalong, „Geschichte und Entwicklung des Online-Journalismus“, [http://www.spiegel.de/netzwelt/web/spiegel-online-geschichte-und-entwicklung-des-online-journalismus-a-995631.html](http://www.spiegel.de/netzwelt/web/spiegel-online-geschichte-und-entwicklung-des-online-journalismus-a-995631.html) \[abgefragt: 26.03.2018\]
 [^20]: Vgl. Jule Lutteroth/Frank Patalong, „Geschichte und Entwicklung des Online-Journalismus“, [http://www.spiegel.de/netzwelt/web/spiegel-online-geschichte-und-entwicklung-des-online-journalismus-a-995631.html](http://www.spiegel.de/netzwelt/web/spiegel-online-geschichte-und-entwicklung-des-online-journalismus-a-995631.html) \[abgefragt: 26.03.2018\]
 [^21]: Vgl. Spiegel Media (a), „Markenprofil Spiegel Online“, [https://web.archive.org/web/20170921221446/http://spiegel.media/uploads/MarkenProfile/RoteGruppe/SPON\_Markenprofil.pdf](https://web.archive.org/web/20170921221446/http://spiegel.media/uploads/MarkenProfile/RoteGruppe/SPON_Markenprofil.pdf) \[abgefragt: 26.03.2018\]
-
 
 #### Form und Ästhetik
 
