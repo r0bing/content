@@ -11,6 +11,7 @@ tags:
   - "dezentralisierung"
   - "nft"
   - "krypto"
+syndication_urls: []
 ---
 Wenn wir heute über die Zukunft des Internets sprechen, geht es immer wieder um Schlagwörter wie _Web3_, _Blockchain_, _Krypto_ oder _NFT_: Im Web3 werden die Menschen mit ihren Kryptocoins zahlen, um etwa neue Websites zu erstellen oder in sie zu investieren – vielleicht in eine neue soziale Plattform, die allen gehört und nicht einem einzigen Technologieunternehmen. Das Web3 besitzt das Potenzial, uns von den Tech-Megakonzernen und ihren Algorithmen zu befreien, und selbstbestimmter mit unseren Daten umgehen zu können. Anstatt uns auf die _Facebooks_, _Twitters_, _TikToks_ und _Googles_ dieser Welt zu verlassen, vertrauen wir dann der Blockchain, der Dezentralität.
 

@@ -11,7 +11,7 @@ tags:
   - "europa"
   - "psychologie"
   - "interview"
-
+syndication_urls: []
 ---
 **Schwarzer Bildschirm, leises Krächzen, große, braune Kulleraugen schauen in die Kamera: „Hi! Falls meine Haare irgendwie komisch aussehen: Ich hatte gerade keine Lust, mir die Haare zu waschen, also habe ich Babypuder genommen. Hatte nämlich irgendwo gelesen, dass das als Trockenshampoo funktionieren soll ...“**
 

@@ -11,6 +11,7 @@ tags:
   - "ludologie"
   - "narratologie"
   - "game studies"
+syndication_urls: []
 ---
 {{< detail-tag "**Inhaltsverzeichnis**" >}}
 - [Einleitung](#einleitung)

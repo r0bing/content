@@ -11,8 +11,7 @@ tags:
   - "rhetorik"
   - "kommunikation"
   - "prozedural"
-  
-  
+syndication_urls: []
 ---
 {{< detail-tag "**Inhaltsverzeichnis**" >}}
 - [Einleitung](#einleitung)

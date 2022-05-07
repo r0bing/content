@@ -11,6 +11,7 @@ tags:
   - "kultur"
   - "youtube"
   - "11. september 2001"
+syndication_urls: []
 ---
 Manchmal steige ich abends, kurz vorm Schlafengehen, in den [YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)'schen Kaninchenbau hinab und mach's mir zwischen bunten Super-RTL-Trailerschleifen aus 1999 und ProSieben-Werbeblöcken der frühen 2000er gemütlich – eben aus Liebe zur Nostalgie. Das alles spielt zu einer Zeit, in der es [Jeff Bezos für unmöglich gehalten hätte, Amazon würde eines Tages der führende Online-Buchhändler (!) Deutschlands sein.](https://youtu.be/7pOueDDPgTI?t=83)
 

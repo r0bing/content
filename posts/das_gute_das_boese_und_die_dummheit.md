@@ -1,6 +1,6 @@
 ---
 title: "Das Gute, das Böse und die Dummheit"
-description: "Gegen die Dummheit sind wir wehrlos. Weder mit Protesten noch durch Gewalt läßt sich hier etwas ausrichten;"
+description: "Dietrich Bonhoeffers Begriff der Dummheit hilft unsere Welt besser zu verstehen. Es geht um ein Phänomen, das die Wurzel des Problems ist."
 date: "2022-04-22T19:10:00+02:00"
 tags: 
   - "dietrich bonhoeffer"
@@ -11,6 +11,7 @@ tags:
   - "dummheit"
   - "populismus"
   - "autoritarismus"
+syndication_urls: []
 ---
 > Dummheit ist ein gefährlicherer Feind des Guten als Bosheit.<cite>[^1]</cite>
 >

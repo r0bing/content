@@ -11,6 +11,7 @@ tags:
   - "ethereum"
   - "nft"
   - "web3"
+syndication_urls: []
 ---
 Bei der Zukunft des Internets sind _Blockchains_ und darauf aufbauende Systeme offenbar ein großes Ding. Warum das so ist? Ganz einfach:
 

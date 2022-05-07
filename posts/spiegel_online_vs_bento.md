@@ -11,6 +11,7 @@ tags:
   - "kommentar"
   - "nachrichtenmagazingeschichte"
   - "sprache"
+syndication_urls: []
 ---
 {{< detail-tag "**Disclaimer**" >}}
 Die vorliegende Analyse stammt aus Juli 2018 und vergleicht die Sprache der Online-Ausgabe des _Spiegel_, _Spiegel Online_ (kurz: _SPON_), mit der des Jugendangebots _bento_, das im September 2020 durch _Spiegel Start_ ersetzt wurde. Aus diesem Grund ist es mir leider nicht mehr möglich, auf die originalen Links zu verweisen. Da das Internet aber nie vergisst, weiche ich einfach auf Wayback-Machine-Links aus. _Bento_ wurde am 1. Oktober 2015 als Angebot gestartet, das die Zielgruppe der 18- bis 30-Jährigen erreichen sollte. Seit Januar 2020 publiziert _SPON_ nur noch unter dem Namen _Der Spiegel_.
