@@ -11,7 +11,7 @@ tags:
   - "dummheit"
   - "populismus"
   - "autoritarismus"
-syndication_urls: []
+syndication_urls: ["https://social.tchncs.de/web/@r0bin/108263248834134111","https://twitter.com/r0bingnus/status/1523079670282940416"]
 ---
 > Dummheit ist ein gefährlicherer Feind des Guten als Bosheit.<cite>[^1]</cite>
 >
