@@ -1,6 +1,6 @@
 ---
 title: "Ein Lo-Fi-Girl und die Singularität"
-date: "2022-07-10T21:00:00+02:00"
+date: "2022-07-10T21:00:00"
 description: "Sozioökonomische Ungleichheit, Rassismus, Sexismus, Klassismus und andere Formen der Unterdrückung werden durch die Singularität noch verstärkt werden."
 tags:
 - technische singularität
