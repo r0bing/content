@@ -62,7 +62,7 @@ Benjamin Beil umreißt den Konflikt zwischen der Spielwissenschaft und der Wisse
 
 [^4]: Vgl. Beil, Benjamin: Game Studies – eine Einführung. Münster. 2013. S. 26.
 
-Videospiele bieten zumeist natürlicherweise eine Mischung, da nicht gänzlich auf das Erzählen einer Geschichte verzichtet werden kann. Selbst dann nicht, wenn sie augenscheinlich nicht explizit präsentiert wird, sondern durch audiovisuelle Darstellung eine Meta-Ebene schafft, auf der sie erzählt wird – Stichwort: [Prozedurale Rhetorik in Videospielen](/2021/03/15/prozedurale_rhetorik_in_videospielen/).
+Videospiele bieten zumeist natürlicherweise eine Mischung, da nicht gänzlich auf das Erzählen einer Geschichte verzichtet werden kann. Selbst dann nicht, wenn sie augenscheinlich nicht explizit präsentiert wird, sondern durch audiovisuelle Darstellung eine Meta-Ebene schafft, auf der sie erzählt wird – Stichwort: [Prozedurale Rhetorik in Videospielen]({{< ref "prozedurale_rhetorik_in_videospielen.md" >}}).
 
 Das Spielerische wird höchstens auf ein Minimum reduziert, zum Beispiel im Falle eines _Quick-Time-Events_ (QTE), welches darin besteht, dass eine _Cutscene_ (Filmsequenz) abläuft, während der Spielende entsprechende Knöpfe drücken muss, damit die Sequenz fortschreitet. Er hat jedoch keinen aktiven Zugang zu den direkten Geschehnissen im Spiel. Ein bestimmtes Interaktionsniveau kann, im Bezug auf das Medium, nicht abgeschafft werden.
 
