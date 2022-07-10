@@ -1,7 +1,7 @@
 ---
 title: "Ein Lo-Fi-Girl und die Singularität"
-date: "2022-07-10T21:00:00+02:00"
-description: "Sozioökonomische Ungleichheit, Rassismus, Sexismus, Klassismus und andere Formen der Unterdrückung werden durch die Singularität noch verstärkt werden."
+date: "2022-07-10T23:00:00+02:00"
+description: "Sozioökonomische Ungleichheit, Rassismus, Sexismus, Klassismus und andere Formen der Unterdrückung werden durch die technologische Singularität noch verstärkt werden."
 tags:
 - technische singularität
 - künstliche intelligenz
@@ -33,7 +33,7 @@ Oder:
 
 Ohne angemessene Sicherheitsvorkehrungen und eine damit einhergehende radikale Umstrukturierung der Art und Weise, wie wir uns Technologie vorstellen, produzieren und nutzen, wird eine hypothetische Singularität aus den Konsumtechnologien und Marktlogiken des _Technologie-Kapitalismus_ oder aus den invasiven Technologien autoritärer Überwachungsstaaten hervorgehen. 
 
-Welche Art der Überwachung würde eine Superintelligenz innerhalb einer Gesellschaft durchsetzen, die mit inhärenten Vorurteilen gegen Minderheiten programmiert ist? Wie steht es um die Zukunft Arbeiterklasse und ihrer menschlichen Arbeitskraft, wenn die Automatisierung vollends abgeschlossen ist? Und zu guter Letzt, auch wenn ich es schon ein wenig vorwegnahm: Wer wird von der Singularität profitieren – und wer verlieren?
+Welche Art der Überwachung würde eine Superintelligenz innerhalb einer Gesellschaft durchsetzen, die mit inhärenten Vorurteilen gegen Minderheiten programmiert ist? Wie steht es um die Zukunft der Arbeiterklasse und ihrer menschlichen Arbeitskraft, wenn die Automatisierung vollends abgeschlossen ist? Und zu guter Letzt, auch wenn ich es schon ein wenig vorwegnahm: Wer wird von der Singularität profitieren – und wer verlieren?
 
 ## Ungerechtigkeiten von morgen
 Doch zunächst einmal sollte der Begriff der technologischen Singularität erläutert werden: Sie beschreibt nämlich ein hypothetisches zukünftiges Ereignis, bei dem eine künstliche Intelligenz, die kognitive Leistung der Menschen übertrifft und sich von dort an etwa selbst verbessert oder gar neue Erfindungen macht – eine Superintelligenz.
@@ -53,7 +53,7 @@ Jessas, welch Kulturpessimismus! Mir geht es in diesem Text aber vielmehr um ein
 _Lo-Fi_ (**Lo**w **Fi**delity) bezieht sich innerhalb der Musik auf Klangästhetik, die willentlich nicht dem Stand der aktuellen technischen Entwicklung entspricht. Zu den klanglichen Merkmalen gehören beispielsweise _Noise_, _Glitch_, oder _Distortion_. Lo-Fi ist anfällig für Fehler und Verluste von Informationen, von Klarheit, aber offen für Interpretationen und zufrieden mit jener Unvollkommenheit. Eben diese Attribute könnten dabei helfen die Allmachtsfantasie einer hypothetischen Intelligenzexplosion zu bremsen oder gar abzuwehren. Und wer nun eine kleine Lo-Fi-Musik-Pause braucht, findet hinter dem Bild den Link zum YouTube-Stream. 
 
 ## Perspektive mit Scheuklappen
-Bevor etwa Science-Fiction-Autor [Raymond Kurzweil](https://de.wikipedia.org/wiki/Raymond_Kurzweil) in _Menschheit 2.0: Die Singularität naht_ (original: _The Singularity Is Near: When Humans Transcend Biology_ der technischen Singularität ihren Namen gab, beschrieb schon [Marie Jean Antoine Nicolas Caritat](https://de.wikipedia.org/wiki/Marie_Jean_Antoine_Nicolas_Caritat,_Marquis_de_Condorcet), ein Mathematiker des 18. Jahrhunderts, eine Explosion der Intelligenz, die durch den Fortschritt der Industrialisierung ausgelöst wird. <cite>[^4]</cite> [Georg Wilhelm Friedrich Hegel](https://de.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel) schrieb über die teleologische Natur der Geschichte und darüber, wie der menschliche Geist einem aufsteigenden Bogen zur Selbstverwirklichung und zum Ideal des absoluten Wissens folgen wird – einer Art nicht-maschineller Singularität. Hegels Teleologie ist ein Vorläufer des Singularitätsmythos, der ebenfalls auf der menschlichen Tendenz beruht, in historischen Ereignissen einen kontinuierlichen Fortschritt zu sehen, der als Beweis für die Vorhersage der Zukunft herangezogen wird.
+Bevor etwa Science-Fiction-Autor [Raymond Kurzweil](https://de.wikipedia.org/wiki/Raymond_Kurzweil) in _Menschheit 2.0: Die Singularität naht_ (original: _The Singularity Is Near: When Humans Transcend Biology_) der technischen Singularität ihren Namen gab, beschrieb schon [Marie Jean Antoine Nicolas Caritat](https://de.wikipedia.org/wiki/Marie_Jean_Antoine_Nicolas_Caritat,_Marquis_de_Condorcet), ein Mathematiker des 18. Jahrhunderts, eine Explosion der Intelligenz, die durch den Fortschritt der Industrialisierung ausgelöst wird. <cite>[^4]</cite> [Georg Wilhelm Friedrich Hegel](https://de.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel) schrieb über die teleologische Natur der Geschichte und darüber, wie der menschliche Geist einem aufsteigenden Bogen zur Selbstverwirklichung und zum Ideal des absoluten Wissens folgen wird – einer Art nicht-maschineller Singularität. Hegels Teleologie ist ein Vorläufer des Singularitätsmythos, der ebenfalls auf der menschlichen Tendenz beruht, in historischen Ereignissen einen kontinuierlichen Fortschritt zu sehen, der als Beweis für die Vorhersage der Zukunft herangezogen wird.
 
 [^4]: Vgl. Mahendra Prasad, „Nicolas de Condorcet and the First Intelligence Explosion Hypothesis“ [https://ojs.aaai.org/index.php/aimagazine/article/download/2855/2746](https://ojs.aaai.org/index.php/aimagazine/article/download/2855/2746) [abgefragt: 20.06.2022\]
 
