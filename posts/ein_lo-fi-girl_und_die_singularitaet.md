@@ -1,7 +1,7 @@
 ---
 title: "Ein Lo-Fi-Girl und die Singularität"
 date: "2022-07-11T23:00:00+02:00"
-image: "/img/texts/lofi_singularitaet/title.webp"
+image: "/img/texts/singularitaet/singularity_is_here.png"
 description: "Sozioökonomische Ungleichheit, Rassismus, Sexismus, Klassismus und andere Formen der Unterdrückung werden durch die technologische Singularität noch verstärkt werden."
 tags:
 - technische singularität
@@ -15,7 +15,7 @@ tags:
 ---
 Die _technologische Singularität_ verspricht Albträume. Keine, die in Science-Fiction-Filmen oder Videospielen vorkommen. Also jene, in denen Menschen im Krieg mit allmächtigen, superintelligenten Robotern stehen, nein. Vielmehr geht es um Albträume, in denen die Intensivierung und Mutation schon heutiger Probleme innewohnt: Sozioökonomische Ungleichheit, Rassismus, Sexismus, Klassismus und andere Formen der Unterdrückung werden durch die Singularität noch verstärkt werden.
 
-{{< figure src="/img/texts/lofi_singularitaet/title.webp" title="The Singularity is here © Lucho Poletti" alt="Das Artwork ist voll mit Zitaten von 'Sophia the robot' über die technologische Singularität." link="https://luchopoletti.com/" >}}
+{{< figure src="/img/texts/singularitaet/singularity_is_here.png" title="The Singularity is here © Lucho Poletti" alt="Das Artwork ist voll mit Zitaten von 'Sophia the robot' über die technologische Singularität." link="https://luchopoletti.com/" >}}
 
 Unsere Technologie spiegelt unsere Gesellschaft wider. So sind auch etwa Vorurteile und Machtstrukturen unserer Kultur in jenen Technologien eingebettet:
 
@@ -49,7 +49,7 @@ Allein diese beunruhigenden Vermutungen, sollten uns dazu veranlassen, die polit
 
 Jessas, welch Kulturpessimismus! Mir geht es in diesem Text aber vielmehr um eine Alternative; um den Vorschlag einer alternativen Singularität, die die Vorstellung eines singulären, universellen Ereignisses unterläuft. Eine Alternative, die mich hoffnungsvoller stimmt. Eine Alternative, die unvollkommener, anfälliger, insgesamt offener ist. Also ein wenig wie Lo-Fi-Musik.
 
-{{< figure src="/img/texts/lofi_singularitaet/lofi_girl.png" title="Das Lo-fi-Girl." alt="Ein Screenshot des Lo-Fi-Girl-Streams auf YouTube." link="https://www.youtube.com/c/LofiGirl" >}}
+{{< figure src="/img/texts/singularitaet/lofi_girl.png" title="Das Lo-fi-Girl." alt="Ein Screenshot des Lo-Fi-Girl-Streams auf YouTube." link="https://www.youtube.com/c/LofiGirl" >}}
 
 _Lo-Fi_ (**Lo**w **Fi**delity) bezieht sich innerhalb der Musik auf Klangästhetik, die willentlich nicht dem Stand der aktuellen technischen Entwicklung entspricht. Zu den klanglichen Merkmalen gehören beispielsweise _Noise_, _Glitch_, oder _Distortion_. Lo-Fi ist anfällig für Fehler und Verluste von Informationen, von Klarheit, aber offen für Interpretationen und zufrieden mit jener Unvollkommenheit. Eben diese Attribute könnten dabei helfen die Allmachtsfantasie einer hypothetischen Intelligenzexplosion zu bremsen oder gar abzuwehren. Und wer nun eine kleine Lo-Fi-Musik-Pause braucht, findet hinter dem Bild den Link zum YouTube-Kanal. 
 
