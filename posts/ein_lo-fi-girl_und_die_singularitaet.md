@@ -12,7 +12,7 @@ tags:
 - shanzhai
 - silicon valley
 - china
-syndication_urls: ["https://social.tchncs.de/web/@r0bin/108657849599186059", "https://twitter.com/r0bingnus/status/1548336668985348096"]
+syndication_urls: ["https://social.tchncs.de/web/@r0bin/108657903724538070", "https://twitter.com/r0bingnus/status/1548340075380871169"]
 ---
 Die _technologische Singularität_ verspricht Albträume. Keine, die in Science-Fiction-Filmen oder Videospielen vorkommen. Also jene, in denen Menschen im Krieg mit allmächtigen, superintelligenten Robotern stehen, nein. Vielmehr geht es um Albträume, in denen die Intensivierung und Mutation schon heutiger Probleme innewohnt: Sozioökonomische Ungleichheit, Rassismus, Sexismus, Klassismus und andere Formen der Unterdrückung werden durch die Singularität noch verstärkt werden.
 
