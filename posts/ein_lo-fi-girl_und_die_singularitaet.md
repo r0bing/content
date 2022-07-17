@@ -4,7 +4,7 @@ date: "2022-07-11T23:00:00+02:00"
 image: "/img/texts/singularitaet/singularity_is_here.png"
 description: "Sozioökonomische Ungleichheit, Rassismus, Sexismus, Klassismus und andere Formen der Unterdrückung werden durch die technologische Singularität noch verstärkt werden."
 tags:
-- technische singularität
+- technologische singularität
 - künstliche intelligenz
 - technologie
 - ki
