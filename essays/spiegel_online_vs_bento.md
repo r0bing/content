@@ -125,7 +125,7 @@ Beim Aufrufen der Startseite öffnet der Header mit dem typischen _Spiegel_\-Log
 
 [^23]: Vgl. Stefan Heijnk, „Texten fürs Web: Planen, schreiben, multimedial erzählen“, Heidelberg 2011, S. 28.
 
-{{< figure src="/img/texts/spiegel_spon/spon_opener.webp" title="Screenshot Spiegel Online – Opener" >}}
+{{< figure src="/img/essays/spiegel_spon/spon_opener.webp" title="Screenshot Spiegel Online – Opener" >}}
 
 Wer sich also nicht für das Topthema interessiert, scrollt schnell nach unten. „Das Ganze wirkt wie eine Scan-Rennstrecke: Die Teaser in der Hauptspalte stehen streng untereinander, die Teaserformen variieren nur dezent – und können deshalb schnell überflogen werden.“ <cite>[^24]</cite> Dabei werden aktuelle Artikel aus unterschiedlichen Ressorts präsentiert und mit bereits veröffentlichten Beiträgen zu einem Themenpaket geschnürt, falls eine thematische Nähe zueinander besteht. Diese Blöcke grenzen sich durch schmale, graue Linien voneinander ab.
 
@@ -196,7 +196,7 @@ Die Geschichte wird durch das Nutzen von Ausdrücken wie „immer weiter“, „
 
 Nun ist auch deutlich eine Tendenz erkennbar, denn der Autor beschreibt das Tier als „wütendes Wildschwein“ oder „wuchtige\[s\] Wildtier“, während der „ältere\[ \] Mann“ nur seine Hunde schützen wollte. Pilzsucher streifen deshalb nur noch mit einer Flinte durch den Wald. Die Sprache ist mittlerweile auf der Ebene des Etikettierens angelangt. Der Leser entwickelt durch die tendenziösen Ausführungen eine gewisse Antipathie dem Tier gegenüber. Untermauert wird dies durch eine Fotostrecke, die Jäger mit ihren Gewehren bei der Jagd zeigt.
 
-{{< figure src="/img/texts/spiegel_spon/spon_fotostrecke.webp" title="Screenshot Spiegel Online – Fotostrecke" >}}
+{{< figure src="/img/essays/spiegel_spon/spon_fotostrecke.webp" title="Screenshot Spiegel Online – Fotostrecke" >}}
 
 In den nächsten Abschnitten werden unter anderem die ökonomischen Schäden geschildert, wobei die Sprache nun faktizierend ist. Winzer und Bauern der Region meldeten nämlich Ausfälle von circa zwölf Millionen Euro. Denn im Gegensatz zu einer Reportage, vermittelt die Magazingeschichte auch das Hintergrundwissen. Es findet eine Verknüpfung zwischen Szenen und Fakten statt. Die Sprache wirkt umgangssprachlich, dann aber auch durchschlagend, wenn beispielsweise von „Ballerei“ die Rede ist. Sie pendelt also wie eingangs der Arbeit dargelegt, zwischen nachrichtlichem, einordnendem und narrativem Niveau.
 
@@ -231,7 +231,7 @@ Die jugendliche Ausrichtung der Thematik schlägt sich auch in der Gestaltung de
 
 _bento_ ist bunt, begegnet dem Leser aber zu Beginn ähnlich wie die Startseite von _Spiegel Online_. Dadurch, dass das Aufmacherfoto auch hier den Großteil des Bildschirms einnimmt, entstehen Konsequenzen, die schon beim Mutterverlag beobachtet wurden. Unter dem Opener werden meist zwischen sechs und acht Beiträge mithilfe von Fotos präsentiert, die in einer Kacheloptik arrangiert sind, wie es auch im sozialen Netzwerk Instagram geschieht. Die Überschrift wird bei manchen Bildern in weißer Farbe und einem fetten Schriftsatz im unteren Bildbereich integriert. Manche Beiträge aber, erinnern stark an ein Polaroid-Bild. Unter dem eigentlichen Beitragsfoto ist eine weiße Fläche, die mit der Überschrift und einem möglichen Vorspann in schwarz beschriftet wird.
 
-{{< figure src="/img/texts/spiegel_spon/bento_opener.webp" title="Screenshot bento – Opener" >}}
+{{< figure src="/img/essays/spiegel_spon/bento_opener.webp" title="Screenshot bento – Opener" >}}
 
 Zudem wird die obere, linke Ecke mit einem Thema versehen, unter anderem mit dem Label „Story“ oder „S@tire“. Allerdings geschieht dies nicht durchgängig, eher im Gegenteil. Beiträge, die nicht damit ausgezeichnet sind, stellen ein Gros der Texte dar.
 
@@ -241,7 +241,7 @@ Der Vergleich des Aufbaus der verschiedenen Beiträge gestaltet sich mitunter al
 
 Die größte Gemeinsamkeit der Beiträge besteht in der Reihenfolge der Informationen zum Text. Zuerst ordnet eins der 16 Themen den Text einem Ressort zu. Danach folgen Titel, Datum und Uhrzeit der Veröffentlichung inklusive einer etwaigen Aktualisierung, Möglichkeiten zum Teilen auf Facebook und Twitter, falls vorhanden ein Vorspann und Bild wie auch der Name der Autorin/des Autors/der Autoren. Zum Ende des Artikels werden Hashtags aufgeführt, die den Text einordnen sowie sechs weitere Beiträge, die thematisch nicht mit dem eigentlichen Text verwandt sein müssen. Unter diesen sechs befinden sich zwei Beiträge, die als „Anzeige“ kenntlich gemacht sind. Auch hierbei handelt es sich um Native Ads, die ebenso bei _SPON_ zum Einsatz kommen.
 
-{{< figure src="/img/texts/spiegel_spon/bento_native-ads.webp" title="Screenshot bento – Native Ads" >}}
+{{< figure src="/img/essays/spiegel_spon/bento_native-ads.webp" title="Screenshot bento – Native Ads" >}}
 
 Den Abschluss des Artikels bildet eine erneute Leiste zum Teilen des Textes und sofern vorhanden, eine Kommentarfunktion.
 
@@ -278,7 +278,7 @@ Der Autor beginnt seinen Artikel mit einem erzählerischen Einstieg. Doch Fitnes
 
 Interessant sind in diesem Abschnitt die hervorgehobenen Markierungen im Text. Sie erleichtern dem Rezipienten das schnelle Überfliegen, das Scannen des Artikels. Ohne den restlichen Text gelesen zu haben, erkennt man eine deutliche Tendenz über das innere Seelenleben des Autors. Dies gipfelt in einem groß, rot, fett und kursiv geschriebenen Zitat, das sich deutlich vom verbliebenen Text abgrenzt:
 
-{{< figure src="/img/texts/spiegel_spon/bento_zitat.webp" title="Screenshot bento – Zitat" >}}
+{{< figure src="/img/essays/spiegel_spon/bento_zitat.webp" title="Screenshot bento – Zitat" >}}
 
 Inhalt und Ästhetik spiegeln sich hier in sich selbst wider, das heißt, das Gefühl der Abgrenzung ist sichtbar. Es ist vor allem ein Gefühl, das potenziell ein Großteil der jungen Zielgruppe von bento nachvollziehen kann, wenn nicht sogar selbst empfindet. Dabei kann die Ursache für dieses Empfinden eine gänzlich andere sein.
 
