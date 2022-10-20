@@ -8,4 +8,4 @@ tags:
 syndication_urls: []
 layout: "journal_single"
 ---
-{{< figure src="/img/journal/helgoland.webp" title="Lummenfelsen" >}}
+{{< figure src="/img/journal/helgoland.webp" caption="Lummenfelsen" >}}

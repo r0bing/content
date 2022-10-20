@@ -4,14 +4,14 @@ date: "2022-07-11T23:00:00+02:00"
 image: "/img/texts/singularitaet/singularity_is_here.png"
 description: "Sozioökonomische Ungleichheit, Rassismus, Sexismus, Klassismus und andere Formen der Unterdrückung werden durch die technologische Singularität noch verstärkt werden."
 tags:
-- technologische singularität
-- künstliche intelligenz
-- technologie
-- ki
-- lofi
-- shanzhai
-- silicon valley
-- china
+- "technologische singularität"
+- "künstliche intelligenz"
+- "technologie"
+- "ki"
+- "lofi"
+- "shanzhai"
+- "silicon valley"
+- "china"
 syndication_urls: ["https://social.tchncs.de/web/@r0bin/108657903724538070", "https://twitter.com/r0bingnus/status/1548340075380871169"]
 ---
 Die _technologische Singularität_ verspricht Albträume. Keine, die in Science-Fiction-Filmen oder Videospielen vorkommen. Also jene, in denen Menschen im Krieg mit allmächtigen, superintelligenten Robotern stehen, nein. Vielmehr geht es um Albträume, in denen die Intensivierung und Mutation schon heutiger Probleme innewohnt: Sozioökonomische Ungleichheit, Rassismus, Sexismus, Klassismus und andere Formen der Unterdrückung werden durch die Singularität noch verstärkt werden.
