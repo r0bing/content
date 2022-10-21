@@ -12,7 +12,7 @@ tags:
 syndication_urls: []
 layout: "journal_single"
 ---
-[DALL·E 2](https://openai.com/dall-e-2/) vereint Welten miteinander. Dies tut sie als künstliche Intelligenz, die Texte in Bilder verwandelt, egal wie verwegen oder unwahrscheinlich die Vorstellung ist: größte Gegensätze werden visuell befriedigt. Alles wird miteinanander vermählt, es stellt sich Harmonie ein.
+[DALL·E 2](https://openai.com/dall-e-2/) vereint Welten miteinander. Dies tut sie als künstliche Intelligenz, die Texte in Bilder verwandelt, egal wie verwegen oder unwahrscheinlich die Vorstellung ist: größte Gegensätze werden visuell befriedigt. Alles wird einander vermählt, es stellt sich Harmonie ein.
 
 {{< figure src="/img/journal/dalle_chillies.webp" caption="two romantic chillies madly in love, painting by Gustav Klimt" >}}
 
