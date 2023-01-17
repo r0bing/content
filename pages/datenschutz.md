@@ -24,16 +24,11 @@ entnehmen.
 **Wie erfassen wir Ihre Daten?**
 
 Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z. B. um
-Daten handeln, die Sie in ein Kontaktformular eingeben.
+Daten handeln, die Sie in einer Mail nennen.
 
 Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der Website durch unsere IT-
 Systeme erfasst. Das sind vor allem technische Daten (z. B. Internetbrowser, Betriebssystem oder Uhrzeit
 des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie diese Website betreten.
-
-**Wofür nutzen wir Ihre Daten?**
-
-Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten. Andere
-Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden.
 
 **Welche Rechte haben Sie bezüglich Ihrer Daten?**
 
