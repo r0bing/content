@@ -13,7 +13,7 @@ tags:
   - "autoritarismus"
 syndication_urls: ["https://social.tchncs.de/@r0bin/108268168076276304","https://twitter.com/r0bingnus/status/1523079670282940416"]
 ---
-> Dummheit ist ein gefährlicherer Feind des Guten als Bosheit.<cite>[^1]</cite>
+> Dummheit ist ein gefährlicherer Feind des Guten als Bosheit. <cite>[^1]</cite>
 >
 > Dietrich Bonhoeffer
 
@@ -21,7 +21,7 @@ syndication_urls: ["https://social.tchncs.de/@r0bin/108268168076276304","https:/
 
 Der Krieg wütet. Ein totalitäres Regime kontrolliert das Land. [Dietrich Bonhoeffer,](https://de.wikipedia.org/wiki/Dietrich_Bonhoeffer) lutherischer Theologe, schreibt diesen Satz 1943, zehn Jahre nach der Machtergreifung Adolf Hitlers. Er dachte über das Wesen des Bösen nach und kam zu dem Schluss, dass nicht das Böse selbst der gefährlichste Feind des Guten war, sondern vielmehr war es die Dummheit. 
 
-> Gegen die Dummheit sind wir wehrlos. Weder mit Protesten noch durch Gewalt läßt sich hier etwas ausrichten; Gründe verfangen nicht; Tatsachen, die dem eigenen Vorurteil widersprechen, brauchen einfach nicht geglaubt zu werden – in solchen Fällen wird der Dumme sogar kritisch –, und wenn sie unausweichlich sind, können sie einfach als nichtssagende Einzelfälle beiseitegeschoben werden. Dabei ist der Dumme im Unterschied zum Bösen restlos mit sich selbst zufrieden; ja, er wird sogar gefährlich, indem er leicht gereizt zum Angriff übergeht. Daher ist dem Dummen gegenüber mehr Vorsicht geboten als gegenüber dem Bösen. Niemals werden wir mehr versuchen, den Dummen durch Gründe zu überzeugen; es ist sinnlos und gefährlich.<cite>[^2]</cite>
+> Gegen die Dummheit sind wir wehrlos. Weder mit Protesten noch durch Gewalt läßt sich hier etwas ausrichten; Gründe verfangen nicht; Tatsachen, die dem eigenen Vorurteil widersprechen, brauchen einfach nicht geglaubt zu werden – in solchen Fällen wird der Dumme sogar kritisch –, und wenn sie unausweichlich sind, können sie einfach als nichtssagende Einzelfälle beiseitegeschoben werden. Dabei ist der Dumme im Unterschied zum Bösen restlos mit sich selbst zufrieden; ja, er wird sogar gefährlich, indem er leicht gereizt zum Angriff übergeht. Daher ist dem Dummen gegenüber mehr Vorsicht geboten als gegenüber dem Bösen. Niemals werden wir mehr versuchen, den Dummen durch Gründe zu überzeugen; es ist sinnlos und gefährlich. <cite>[^2]</cite>
 >
 > Dietrich Bonhoeffer
 
@@ -31,7 +31,7 @@ Bonhoeffer wurde bald darauf verhaftet und starb zwei Jahre später in einem Kon
 
 [^3]: Dietrich Bonhoeffer, „Widerstand und Ergebung. Briefe und Aufzeichnungen aus der Haft“, in Eberhard Bethge (Hg.), München 1954, S. 9.
  
-> Wir beobachten weiterhin, daß abgeschlossen und einsam lebende Menschen diesen Defekt seltener zeigen als zur Gesellung neigende oder verurteilte Menschen und Menschengruppen. So scheint die Dummheit vielleicht weniger ein psychologisches als ein soziologisches Problem zu sein.<cite>[^4]</cite>
+> Wir beobachten weiterhin, daß abgeschlossen und einsam lebende Menschen diesen Defekt seltener zeigen als zur Gesellung neigende oder verurteilte Menschen und Menschengruppen. So scheint die Dummheit vielleicht weniger ein psychologisches als ein soziologisches Problem zu sein. <cite>[^4]</cite>
 >
 > Dietrich Bonhoeffer
 
@@ -45,9 +45,9 @@ Denn trotz des rasanten Fortschritts, ändert sich die menschliche Natur nicht. 
 
 1951 untersucht der Psychologe [Solomon Asch](https://de.wikipedia.org/wiki/Solomon_Asch) in einem Experiment, wie einzelne Menschen auf die sie umgebende Gruppe reagieren. Passen sie sich der Meinung der Gruppe an oder schlagen sie ihren eigenen, und letztlich richtigen Weg ein? Denn sechs der sieben Personen antworten absichtlich falsch, das heißt, nur das Verhalten der siebten Person wird hier beobachtet. Es stellte sich heraus, dass sich 76 % der Teilnehmenden im Laufe der Experimente mindestens einmal der Mehrheit anpassten, obwohl diese eindeutig falsch lag. <cite>[^5]</cite>
 
-[^5]: Vgl. Info 02.02 Konformitätsexperiment nach Asch (1951) [https://www.bpb.de/lernen/angebote/grafstat/klassencheckup/46346/info-02-02-konformitaetsexperiment-nach-asch-1951/](https://www.bpb.de/lernen/angebote/grafstat/klassencheckup/46346/info-02-02-konformitaetsexperiment-nach-asch-1951/) [abgefragt: 06.04.2022\]
+[^5]: Vgl. Info 02.02 Konformitätsexperiment nach Asch (1951) [https://www.bpb.de/lernen/angebote/grafstat/klassencheckup/46346/info-02-02-konformitaetsexperiment-nach-asch-1951/](https://www.bpb.de/lernen/angebote/grafstat/klassencheckup/46346/info-02-02-konformitaetsexperiment-nach-asch-1951/)
 
-> Die Macht der einen braucht die Dummheit der anderen. Der Vorgang ist dabei nicht der, daß bestimmte – also etwa intellektuelle – Anlagen des Menschen plötzlich verkümmern oder ausfallen, sondern daß unter dem überwältigenden Eindruck der Machtentfaltung dem Menschen seine innere Selbständigkeit geraubt wird und daß dieser nun – mehr oder weniger unbewußt – darauf verzichtet, zu den sich ergebenden Lebenslagen ein eigenes Verhalten zu finden. Daß der Dumme oft bockig ist, darf nicht darüber hinwegtäuschen, daß er nicht selbständig ist.<cite>[^6]</cite>
+> Die Macht der einen braucht die Dummheit der anderen. Der Vorgang ist dabei nicht der, daß bestimmte – also etwa intellektuelle – Anlagen des Menschen plötzlich verkümmern oder ausfallen, sondern daß unter dem überwältigenden Eindruck der Machtentfaltung dem Menschen seine innere Selbständigkeit geraubt wird und daß dieser nun – mehr oder weniger unbewußt – darauf verzichtet, zu den sich ergebenden Lebenslagen ein eigenes Verhalten zu finden. Daß der Dumme oft bockig ist, darf nicht darüber hinwegtäuschen, daß er nicht selbständig ist. <cite>[^6]</cite>
 >
 > Dietrich Bonhoeffer
 
@@ -55,7 +55,7 @@ Denn trotz des rasanten Fortschritts, ändert sich die menschliche Natur nicht. 
 
 Und eben dieser Umstand kann ausgenutzt bzw. zunutze gemacht werden. Menschen, die von Dummheit überwältigt sind, handeln wie besessen. Jeder Weg zum logischen Teil des Hirns ist verschüttet, jeder Versuch einer faktenbasierten Diskussion versagt. Stattdessen dringen nur noch laute Schlagwörter und dumpfe Parolen durch.
 
-> Man spürt es geradezu im Gespräch mit ihm, daß man es gar nicht mit ihm selbst, mit ihm persönlich, sondern mit über ihn mächtig gewordenen Schlagworten, Parolen etc. zu tun hat. Er ist in einem Banne, er ist verblendet, er ist in seinem eigenen Wesen mißbraucht, mißhandelt. So zum willenlosen Instrument geworden, wird der Dumme auch zu allem Bösen fähig sein und zugleich unfähig, dies als Böses zu erkennen.<cite>[^7]</cite>
+> Man spürt es geradezu im Gespräch mit ihm, daß man es gar nicht mit ihm selbst, mit ihm persönlich, sondern mit über ihn mächtig gewordenen Schlagworten, Parolen etc. zu tun hat. Er ist in einem Banne, er ist verblendet, er ist in seinem eigenen Wesen mißbraucht, mißhandelt. So zum willenlosen Instrument geworden, wird der Dumme auch zu allem Bösen fähig sein und zugleich unfähig, dies als Böses zu erkennen. <cite>[^7]</cite>
 >
 > Dietrich Bonhoeffer
 
@@ -67,7 +67,7 @@ Die Dummheit erleichtert den Prozess der Eroberung der Gesellschaft durch rückg
 
 Im 21. Jahrhundert entfaltet sich dieses Versagen des menschlichen Geistes immer weiter. So führten im ersten Jahrzehnt kognitive Verzerrungen etwa zu wirtschaftlichen Blasen, die im weltweiten Wirtschaftscrash von 2008 gipfelten. Im zweiten und dritten Jahrzehnt erleben wir, dass Demokratien auf der ganzen Welt immer mehr geschwächt werden und lauten Akteuren stärker Gehör geschenkt wird.
 
-> Sie ist eine besondere Form der Einwirkung geschichtlicher Umstände auf den Menschen, eine psychologische Begleiterscheinung bestimmter äußerer Verhältnisse. Bei genauerem Zusehen zeigt sich, daß jede starke äußere Machtentfaltung, sei sie politischer oder religiöser Art, einen großen Teil der Menschen mit Dummheit schlägt.<cite>[^8]</cite>
+> Sie ist eine besondere Form der Einwirkung geschichtlicher Umstände auf den Menschen, eine psychologische Begleiterscheinung bestimmter äußerer Verhältnisse. Bei genauerem Zusehen zeigt sich, daß jede starke äußere Machtentfaltung, sei sie politischer oder religiöser Art, einen großen Teil der Menschen mit Dummheit schlägt. <cite>[^8]</cite>
 >
 > Dietrich Bonhoeffer
 
@@ -75,11 +75,11 @@ Im 21. Jahrhundert entfaltet sich dieses Versagen des menschlichen Geistes immer
 
 Genau das ließ sich etwa bei Pro-Trump-Kundgebungen beobachten, die zu einem brutalen Sturm auf das Kapitol in Washington führten. <cite>[^9]</cite> Oder auch hier in Deutschland als im August 2020 auf einer Demo in Berlin dazu aufgerufen wurde, sich „unser Haus“ zurückzuholen <cite>[^10]</cite> – gemeint war das Reichstagsgebäude. Wir sahen es in den USA bei Black-Lives-Matter-Protesten, die in mutwillige Plünderungen ausarteten. <cite>[^11]</cite> Wir begegnen ihr jeden Tag in den Filterblasen der sozialen Netzwerke, die oft ein ungutes Gruppendenken fördern.
 
-[^9]: Vgl. Trump-Anhänger stürmen Kapitol [https://www.tagesschau.de/ausland/kapitol-gestuermt-113.html](https://www.tagesschau.de/ausland/kapitol-gestuermt-113.html) [abgefragt: 07.04.2022\]
+[^9]: Vgl. Tagesschau, „Trump-Anhänger stürmen Kapitol“, [https://www.tagesschau.de/ausland/kapitol-gestuermt-113.html](https://www.tagesschau.de/ausland/kapitol-gestuermt-113.html)
 
-[^10]: Vgl. Mit gezielten Falschmeldungen aufgehetzt [https://www.tagesschau.de/faktenfinder/reichstag-berlin-sturm-fakenews-101.html](https://www.tagesschau.de/faktenfinder/reichstag-berlin-sturm-fakenews-101.html) [abgefragt: 07.04.2022\]
+[^10]: Vgl. Tagesschau, „Mit gezielten Falschmeldungen aufgehetzt“, [https://www.tagesschau.de/faktenfinder/reichstag-berlin-sturm-fakenews-101.html](https://www.tagesschau.de/faktenfinder/reichstag-berlin-sturm-fakenews-101.html)
 
-[^11]: Vgl. Es begann mit einem Notruf [https://www.tagesschau.de/ausland/amerika/floyd-chronik-101.html](https://www.tagesschau.de/ausland/amerika/floyd-chronik-101.html) [abgefragt: 07.04.2022\]
+[^11]: Vgl. Tagesschau, „Es begann mit einem Notruf“, [https://www.tagesschau.de/ausland/amerika/floyd-chronik-101.html](https://www.tagesschau.de/ausland/amerika/floyd-chronik-101.html)
 
 Was der Brexit 2016 tatsächlich bedeutete, wusste niemand. Vor allem nicht diejenigen, die ihn unbedingt wollten – behaupte ich zumindest. Selbst jetzt, wo klar geworden ist, dass der britische Austritt leere Regale, unterbrochene Lieferketten und noch mehr Bürokratie bedeutet, sind die Brexiteers nach wie vor noch nicht in der Realität aufgewacht. Sie halten an denselben Slogans und Sprechchören fest.
 
@@ -87,11 +87,11 @@ Was der Brexit 2016 tatsächlich bedeutete, wusste niemand. Vor allem nicht diej
 
 Als [Leon Festinger](https://de.wikipedia.org/wiki/Leon_Festinger) in den 1950er-Jahren einen UFO-Kult untersuchte, stieß er auf Dorothy Martin, eine Hausfrau aus Chicago. Die Anführerin der „Seekers“ sagte voraus, die Welt ginge am 21. Dezember 1954 unter. Gehe ich davon aus, dass mich die _Mainstream-Medien_ ehrlich informieren, ist die Welt zwar heute eine andere, aber die Erde gibt es noch immer – die Prophezeiung war falsch. Dennoch glaubten viele Menschen daran und versammelten sich an diesem schicksalhaften Tag in einem unscheinbaren Haus. Dort saßen und warteten sie auf den Jüngsten Tag. Die Stunde des Weltuntergangs schlug, es geschah nichts, ihr Glauben festigte sich dem ungeachtet. <cite>[^12]</cite>
 
-[^12]: Dissonante Gedanken [https://www.spektrum.de/magazin/warum-wir-oft-merkwuerdige-dinge-denken/1557074](https://www.spektrum.de/magazin/warum-wir-oft-merkwuerdige-dinge-denken/1557074) [abgefragt: 12.04.2022\]
+[^12]: Vgl. Daniela Ovadia, „Dissonante Gedanken“, [https://www.spektrum.de/magazin/warum-wir-oft-merkwuerdige-dinge-denken/1557074](https://www.spektrum.de/magazin/warum-wir-oft-merkwuerdige-dinge-denken/1557074)
 
 Diese Art des Festhaltens spielt sich genauso bei normalen Menschen jeden Tag ab. Ständig werden wir mit Fakten konfrontiert, die beweisen, dass liebgewonnene Überzeugungen gar nicht wahr sind. Doch meistens ignorieren wir sie einfach. In einer Welt, die von Informationen und vermeintlichen Informationen überflutet ist, fällt es immer schwerer, einen Durchblick zu behalten.
 
-> Die Beeinflussung der Menschen hat zweierlei zur Folge: Einmal bringt sie eine skeptische und zynische Einstellung zu allem hervor, was gesagt oder gedruckt wird; andererseits führt sie zu einem kindlichen Glauben an alles, was einem von einer Autoritätsperson gesagt wird. Diese Verbindung von Zynismus und Naivität ist für den modernen Menschen höchst kennzeichnend.<cite>[^13]</cite>
+> Die Beeinflussung der Menschen hat zweierlei zur Folge: Einmal bringt sie eine skeptische und zynische Einstellung zu allem hervor, was gesagt oder gedruckt wird; andererseits führt sie zu einem kindlichen Glauben an alles, was einem von einer Autoritätsperson gesagt wird. Diese Verbindung von Zynismus und Naivität ist für den modernen Menschen höchst kennzeichnend. <cite>[^13]</cite>
 >
 > Erich Fromm
 
@@ -101,8 +101,26 @@ In „Escape from Freedom“ versuchte [Erich Fromm](https://de.wikipedia.org/wi
 
 Als Bonhoeffer in seiner Zelle saß, über seine Beobachtungen schrieb und auf seinen Jüngsten Tag wartete, war die Welt um ihn herum im Wahnsinn gefangen. Obwohl er von Verzweiflung überwältigt war, sah er Hoffnung. Die Mehrheit der Menschen ist nicht dumm.
 
-> Übrigens haben diese Gedanken über die Dummheit doch dies tröstliche für sich, daß sie ganz und gar nicht zulassen, die Mehrzahl der Menschen unter allen Umständen für dumm zu halten. Es wird wirklich darauf ankommen, ob Machthaber sich mehr von der Dummheit oder von der inneren Selbständigkeit und Klugheit der Menschen versprechen.<cite>[^14]</cite>
+> Übrigens haben diese Gedanken über die Dummheit doch dies tröstliche für sich, daß sie ganz und gar nicht zulassen, die Mehrzahl der Menschen unter allen Umständen für dumm zu halten. Es wird wirklich darauf ankommen, ob Machthaber sich mehr von der Dummheit oder von der inneren Selbständigkeit und Klugheit der Menschen versprechen. <cite>[^14]</cite>
 >
 > Dietrich Bonhoeffer
 
 [^14]: Dietrich Bonhoeffer, „Widerstand und Ergebung. Briefe und Aufzeichnungen aus der Haft“, in Eberhard Bethge (Hg.), München 1954, S. 10.
+
+{{< detail-tag "**Quellenverzeichnis**" >}}
+
+Bonhoeffer, Dietrich (1954): Widerstand und Ergebung. Briefe und Aufzeichnungen aus der Haft. In: Eberhard Bethge (Hg.). München.
+
+BPB (2010): Info 02.02 Konformitätsexperiment nach Asch (1951). In: bpb.de.  
+URL.: [https://www.bpb.de/lernen/angebote/grafstat/klassencheckup/46346/info-02-02-konformitaetsexperiment-nach-asch-1951/](https://www.bpb.de/lernen/angebote/grafstat/klassencheckup/46346/info-02-02-konformitaetsexperiment-nach-asch-1951/)  
+[Abgerufen: 06.04.2022\].
+
+Fromm, Erich (2000): Die Furcht vor der Freiheit. München.
+
+Ovadia, Daniela (2018): Dissonante Gedanken. In: spektrum.de.  
+URL.: [https://www.spektrum.de/magazin/warum-wir-oft-merkwuerdige-dinge-denken/1557074](https://www.spektrum.de/magazin/warum-wir-oft-merkwuerdige-dinge-denken/1557074)  
+[Abgerufen: 12.04.2022\].
+
+**Ergänzung (12.02.2023): Sämtliche Verweise auf die Texte der Tagesschau sind nur noch mittels Wayback Machine nachzuvollziehen, da deren ursprüngliche URLs auf Landing Pages verweisen.**
+
+{{< /detail-tag >}}
