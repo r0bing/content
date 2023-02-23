@@ -15,7 +15,7 @@ syndication_urls: [""]
 ---
 Das Internet ist ungeil und bleibt's wohl auch. Heutzutage ist das Internet gefiltert, durch Algorithmen von _Google_ und _Meta_. Informationen verstecken sich hinter Paywalls, Bezahlschranken, und sind dann oftmals mit Werbung überklebt. Unternehmen sammeln Daten, Daten und Daten ihrer Nutzer:innen, um sie weiterzuverkaufen oder um selbst detaillierte Werbeprofile zu erstellen. So weit, so ungeil.
 
-{{< figure src="/img/essays/wtf_web3/wtf_web3.webp" alt="Das Artwork zeigt im Meer schwimmende Haie, einer von ihnen hält ein großes Dollar-Zeichen in seiner Hand." >}}
+{{< figure src="/img/essays/mindweb/mindweb.webp" alt="Das Artwork zeigt im Meer schwimmende Haie, einer von ihnen hält ein großes Dollar-Zeichen in seiner Hand." >}}
 
 Aber dieses _web3_, das erstmal als Sammelbegriff für all das herhält, was die künftige Generation des Webs ausmacht, das web3, das all die heutigen Problematiken überwinden mag, wird von zahllosen Kryptokommentarwichsmaschinen und Blockchainbros bis *to the moon* vollgekackt.
 
