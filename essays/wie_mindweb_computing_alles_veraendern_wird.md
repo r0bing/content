@@ -37,7 +37,7 @@ Die Unternehmen logen darüber, wie weit verbreitet ihre Produkte überhaupt war
 
 Die Sache mit dem Potenzial ist, dass man es über alles sagen kann, solange ich es nicht wirklich untermauern muss: **Mindweb Computing** wird das Web ins web3 hieven. Ich bastle mir ein paar hübsche Powerpoint-Folien zusammen, erzähle vom **Quantum Streaming** und male mit ein wenig Charisma und **Neurosynthing** <cite>[^3]</cite> ein Bild eines utopischen Webs, von dem einst geträumt wurde und das nun in greifbare Nähe rückt.
 
-[^3]: „Ja du, ich bin viel im Bereich Mindweb Computing unterwegs. Kennst du gar nicht? Kennst du Blockchains, Krypto? Hast du bestimmt schon mal gehört, oder? Also Mindweb Computing dockt da an, is' aber nochmal geiler. Potenziell.“
+[^3]: „Ja du, ich bin super viel im Bereich Mindweb Computing unterwegs. Kennst du gar nicht? Kennst du Blockchains, Krypto oder so? Hast du bestimmt schon mal gehört ... Also Mindweb Computing is' sowas in die Richtung, aber halt noch heftiger, irgendwann.“
 
 Ich glaube, dass die Technologiebranche voll von Leuten ist, die mit ihren schicken Folien herumlaufen und über *revolutionäre* Ideen schwadronieren. Sollen sie, ist ja aich im Großen und Ganzen auch relativ harmlos, wenn diese Ideen, auf Kosten einiger Startup-Gründer:innen und reicher Frühphasen-Investor:innen verbrannt werden.
 

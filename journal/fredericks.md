@@ -3,8 +3,9 @@ title: "Kleine Fredericks"
 date: "2022-09-02"
 description: ""
 tags:
-- 
-- 
+- "herbst"
+- "frederick"
+- "kinderbuch"
 syndication_urls: []
 layout: "journal_single"
 ---
