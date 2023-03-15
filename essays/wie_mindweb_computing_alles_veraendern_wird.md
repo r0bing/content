@@ -11,6 +11,8 @@ tags:
 - "semantic web"
 - "vaporware"
 - "web3"
+aliases:
+- /journal/essay_mindweb
 syndication_urls: [""]
 ---
 Das Internet ist ungeil und bleibt's wohl auch. Heutzutage ist das Internet gefiltert, durch Algorithmen von _Google_ und _Meta_. Informationen verstecken sich hinter Paywalls, Bezahlschranken, und sind dann oftmals mit Werbung überklebt. Unternehmen sammeln Daten, Daten und Daten ihrer Nutzer:innen, um sie weiterzuverkaufen oder um selbst detaillierte Werbeprofile zu erstellen. So weit, so ungeil.
