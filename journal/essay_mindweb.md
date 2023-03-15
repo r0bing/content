@@ -1,5 +1,6 @@
 ---
 title: "Kein Trottel sein, reich werden!"
+url: "/wie_mindweb_computing_alles_veraendern_wird"
 date: "2023-03-15"
 description: ""
 tags:
