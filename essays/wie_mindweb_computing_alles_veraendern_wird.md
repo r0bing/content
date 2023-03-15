@@ -1,7 +1,7 @@
 ---
 title: "Wie Mindweb Computing alles verändern wird"
 description: "Na klar, wird es ein web3 geben. Das Web hat sich seit seinen Anfängen ständig weiterentwickelt. Ich glaube auch, dass ein grundlegender Wandel überfällig ist. Werden es Blockchains und Kryptowährungen sein? Bitte nich'!"
-date: "2023-02-25T20:00:00+01:00"
+date: "2023-03-15T10:00:00+01:00"
 tags:
 - "bitcoin"
 - "blockchain"
