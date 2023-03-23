@@ -1,11 +1,11 @@
 ---
 title: "Kein Trottel sein, reich werden!"
-url: /wie_mindweb_computing_alles_veraendern_wird
-date: "2023-03-20"
+date: "2023-03-23"
 description: ""
 tags:
--
--
+- "krypto"
+- "mindweb computing"
+- "web3"
 syndication_urls: []
 layout: "journal_single"
 ---
