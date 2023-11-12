@@ -9,4 +9,20 @@ tags:
 syndication_urls: []
 layout: "journal_single"
 ---
-{{< figure src="/img/journal/einschlafen(verliebt).webp" alt="Text: EINSCHLAFEN (verliebt) bedeutet arm in arm // aneinanderschwitzend schmelzen // aus den augen verlieren // frierend // sich die decke klauen aufzuwachen // umdrehen // bein an bein // weiter schlummern // morgens augen zu öffnen // ohne irgendwen" >}}
+{{< figure src="/img/journal/einschlafen(verliebt).webp" alt="Text: EINSCHLAFEN (verliebt) bedeutet arm in arm // aneinanderschwitzend // schmelzen // aus den augen verlieren // weil zu // frierend // sich die decke klauen // aufzuwachen // umdrehen // bein an bein weiter schlummern // morgens augen zu öffnen // ohne irgendwen" >}}
+
+EINSCHLAFEN (verliebt) \
+\
+bedeutet arm in arm \
+aneinanderschwitzend \
+schmelzen \
+aus den augen verlieren \
+weil zu \
+frierend \
+sich die decke klauen \
+aufzuwachen \
+umdrehen \
+bein an bein weiter schlummern \
+morgens augen zu öffnen \
+\
+ohne irgendwen
